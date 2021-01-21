@@ -8,11 +8,11 @@ Se é Web ou APP (qual plataforma): Será desenvolvido um programa voltado para 
 
 As tecnologias a serem utilizadas estão listadas abaixo com sua função dentro do projeto:
 
-JavaScript: back-end.
-MySQL: banco de dados relacional.
-Hibernate: persistência de dados de BD relacional.
-GitHub: Será utilizada para versionamento e armazenamento do código na nuvem
-NodeJS: Utilizado para habilitar a coleta e análise de dados,facilitando a comunicação entre com o servidor;
+- JavaScript: back-end.
+- MySQL: banco de dados relacional.
+- Hibernate: persistência de dados de BD relacional.
+- GitHub: Será utilizada para versionamento e armazenamento do código na nuvem
+- NodeJS: Utilizado para habilitar a coleta e análise de dados,facilitando a comunicação entre com o servidor;
 
 
 ### :seedling: Metodologia de Desenvolvimento a ser utilizada
