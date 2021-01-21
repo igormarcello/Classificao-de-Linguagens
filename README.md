@@ -1,8 +1,8 @@
 # Classificao-de-Linguagens
-Classificação de Linguagens de Programação.
-Nome para o Projeto (apelido): Classificador de Linguagens
-Componentes do projeto (aluno(s)): Igor Marcelo S. Lima 
-Se é Web ou APP (qual plataforma): Será desenvolvido um programa voltado para a Web. 
+- Classificação de Linguagens de Programação.
+- Nome para o Projeto (apelido): Classificador de Linguagens
+- Componentes do projeto (aluno(s)): Igor Marcelo S. Lima 
+- Se é Web ou APP (qual plataforma): Será desenvolvido um programa voltado para a Web. 
 
 ## :rocket: Tecnologias associadas (linguagens, frameworks, etc)
 
